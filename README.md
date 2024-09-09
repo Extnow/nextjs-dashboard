@@ -1,3 +1,3 @@
 # Next.js туториал из официальной документации
 
-https://nextjs-dashboard-seven-pink-61.vercel.app/
+https://nextjs-dashboard-mikhails-projects-75e2acda.vercel.app/
